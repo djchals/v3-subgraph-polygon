@@ -1,7 +1,6 @@
-# Uniswap V3 Subgraph
+# Uniswap V3 Subgraph Polygon Network
+This is a clon of https://github.com/Uniswap/v3-subgraph but reading from Polygon Network
 
 ### Subgraph Endpoint 
 
-Synced at: https://thegraph.com/hosted-service/subgraph/ianlapham/uniswap-v3-subgraph?selected=playground
-
-Pending Changes at same URL
+Synced at: 
